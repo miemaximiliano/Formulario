@@ -1,0 +1,1 @@
+En este podemos ver un formulario en donde tenemos verificaciones al momento de cargar los datos, incluimos local storadge y por ultimo enviamos los datos cargados a un servidor web mediante una llamada HTTP desde JavaScript.
